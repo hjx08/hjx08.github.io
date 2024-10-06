@@ -21,7 +21,7 @@ repository               : "hjx08/hjx08.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"#头像
+  avatar           : "https://s21.ax1x.com/2024/10/06/pA84Cf1.jpg"#头像
   name             : "IKUN"
   pronouns         : # example: "she/her"  
   bio              : "啥也没有"
